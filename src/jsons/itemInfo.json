@@ -1,0 +1,30 @@
+{
+    "add": {
+        "success": true,
+        "body": {
+            "status": "DISPATCHED",
+            "operationType": "ADD",
+            "domain": "PHONE",
+            "propertiesAfter": [
+                {
+                    "key": "number",
+                    "value": "+78005553535"
+                }
+            ]
+        }
+    },
+    "successed": {
+        "success": true,
+        "body": {
+            "status": "SUCCESSED",
+            "operationType": "DELETE",
+            "domain": "PHONE",
+            "propertiesBefore": [
+                {
+                    "key": "number",
+                    "value": "+74449997711"
+                }
+            ]
+        }
+    }
+}

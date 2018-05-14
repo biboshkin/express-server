@@ -1,0 +1,27 @@
+{
+  "name": "express-stub-server",
+  "version": "1.0.0",
+  "description": "stub express server",
+  "main": "src/index.js",
+  "dependencies": {
+    "body-parser": "1.14.2",
+    "colors": "1.2.4",
+    "express": "4.14.0",
+    "express-session": "1.15.6",
+    "fs-extra": "0.30.0",
+    "lodash": "4.17.10",
+    "uuid": "3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "stub",
+    "rest",
+    "express",
+    "server"
+  ],
+  "author": "SBT-Klokov-NA",
+  "license": "ISC"
+}

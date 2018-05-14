@@ -1,0 +1,40 @@
+{
+	"domains": [
+		{
+			"domain": "PHONE",
+			"userOperations": [
+				{
+					"operationType": "ADD",
+					"properties": [
+						{
+							"key": "number",
+							"value": "+7 (999) 999-99-11"
+						}
+					]
+				},
+				{
+					"operationType": "DELETE",
+					"domainItemId": "d1ee1541-9242-467f-b116-ccc9bb1c1434"
+				}
+			]
+		},
+		{
+			"domain": "EMAIL",
+			"userOperations": [
+				{
+					"operationType": "ADD",
+					"properties": [
+						{
+							"key": "name",
+							"value": "aaasss2@mail.ru"
+						}
+					]
+				},
+				{
+					"operationType": "DELETE",
+					"domainItemId": "bbc25a81-a358-4f78-b842-2f8a98c2adb7"
+				}
+			]
+		}
+	]
+}

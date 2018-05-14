@@ -1,0 +1,121 @@
+{
+	"success": true,
+	"body": {
+		"domains": [
+			{
+				"domainName": "PHONE",
+				"editable": false,
+				"items": [
+					{
+						"id": "d1ee1541-9242-467f-b116-ccc9bb1c1434",
+						"properties": [
+							{
+								"key": "number",
+								"value": "+79999999999"
+							},
+							{
+								"key": "status",
+								"value": 2
+							},
+							{
+								"key": "lastUpd",
+								"value": 1497430800000
+							}
+						]
+					},
+					{
+						"id": "3d7ffd37-bed9-48b1-bdec-6bb558ffae13",
+						"properties": [
+							{
+								"key": "number",
+								"value": "+79999998899"
+							},
+							{
+								"key": "status",
+								"value": 3
+							},
+							{
+								"key": "lastUpd",
+								"value": 1497430800000
+							}
+						]
+					},
+					{
+						"id": "7a4341d7-3dd2-4fc2-994d-bc19a1cd203b",
+						"properties": [
+							{
+								"key": "number",
+								"value": "+79999997799"
+							},
+							{
+								"key": "status",
+								"value": 2
+							},
+							{
+								"key": "lastUpd",
+								"value": 1497430800000
+							}
+						]
+					}
+				]
+			},
+			{
+				"domainName": "EMAIL",
+				"editable": true,
+				"items": [
+					{
+						"id": "e21ab57c-b75d-4b63-9c52-86ff7fc7895b",
+						"properties": [
+							{
+								"key": "name",
+								"value": "User2@mail.ru"
+							},
+							{
+								"key": "status",
+								"value": 2
+							},
+							{
+								"key": "lastUpd",
+								"value": 1497430800000
+							}
+						]
+					},
+					{
+						"id": "e984e786-bf59-4f19-9301-1c40197f2487",
+						"properties": [
+							{
+								"key": "name",
+								"value": "User2@mail.ru"
+							},
+							{
+								"key": "status",
+								"value": 3
+							},
+							{
+								"key": "lastUpd",
+								"value": 1497430800000
+							}
+						]
+					},
+					{
+						"id": "a41cf28d-5211-452d-ac35-28380de069fe",
+						"properties": [
+							{
+								"key": "name",
+								"value": "User2@mail.ru"
+							},
+							{
+								"key": "status",
+								"value": 3
+							},
+							{
+								"key": "lastUpd",
+								"value": 1497430800000
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
